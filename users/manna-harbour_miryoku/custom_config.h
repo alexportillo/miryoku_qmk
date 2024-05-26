@@ -5,7 +5,7 @@
 
 #pragma once
 
-#define MIRYOKU_ALTERNATIVES_BUTTON \
+#define MIRYOKU_LAYER_BUTTON \
 U_UND,             U_CUT,             U_CPY,             U_PST,             U_RDO,             U_RDO,             U_PST,             U_CPY,             U_CUT,             U_UND,             \
 KC_LGUI,           KC_LALT,           KC_LCTL,           KC_LSFT,           U_NU,              KC_LEFT,           KC_DOWN,           KC_UP,             KC_RIGHT,          KC_LGUI,           \
 U_UND,             U_CUT,             U_CPY,             U_PST,             U_RDO,             U_RDO,             U_PST,             U_CPY,             U_CUT,             U_UND,             \
